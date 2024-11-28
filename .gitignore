@@ -14,7 +14,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+
 lib64/
 parts/
 sdist/
@@ -129,7 +129,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+15th.csv
+5TH.csv
+30th.csv
 # Spyder project settings
 .spyderproject
 .spyproject
